@@ -1,5 +1,4 @@
-package com.company;
-
+package com.company.strategies;
 
 public class Ak47Strategy implements EnemySlayingStrategy {
 

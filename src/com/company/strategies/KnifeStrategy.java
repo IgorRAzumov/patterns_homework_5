@@ -1,4 +1,4 @@
-package com.company;
+package com.company.strategies;
 
 public class KnifeStrategy implements EnemySlayingStrategy {
   @Override

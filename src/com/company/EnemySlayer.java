@@ -1,5 +1,6 @@
 package com.company;
 
+import com.company.strategies.EnemySlayingStrategy;
 
 public class EnemySlayer {
 
